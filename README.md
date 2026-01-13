@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rad 👋
 
-<!--
-**Radical-coding/Radical-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Currently taking CSC-134 and getting ready to learn C++!
 
-Here are some ideas to get you started:
+## My Foo (special interest) 🎯
+I’m obsessed with how we move people across gaps. Whether it’s the physics of a suspension cable or the efficiency of a Warren truss, I spend my time analyzing how buildings and bridges stand up (and why they sometimes fall).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- C++
+- Calc 3
+- physics 2
+- statics 
+
+## Fun Fact
+Im from yemen
+## Find Me
+- 📫 Right here on GitHub!
