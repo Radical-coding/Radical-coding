@@ -1,36 +1,31 @@
-/*
-CSC 134
-M1LAB - Apple Sales
-Radical-coding
-01/25/26
-
-*/
-
+// CSC 134
+// M1LAB - Apple Sales
+// Radical-coding
+// 01/31/26
+// We're going to make the simplest possible
+// "checkout" machine
 #include <iostream>
 using namespace std;
 
+
 int main() {
-    // This program will simulate an apple orchard.
-    // The owner’s name
-    string name = "Jane Smith";
-    // number of apples owned
-    int apples = 100;
-    // price per apple
-    double pricePerApple = 0.25;
 
-    // calculate the total price of the apples
-    double totalPrice = apples * pricePerApple;
+    // Set up all Variables
+    string first_name, last_name, full_name; // holds customers name
+    string product = "apples"; 
+    double cost_each = 0.89;
+    double total_cost;
 
-    // print all the information about the orchard
-    cout << "Welcome to " << name;
-    cout << " apple orchard." << endl;
-    cout << "We have " << apples;
-    cout << " apples in stock" << endl;
-    cout << "Apples are currently $";
-    cout << pricePerApple << " each." << endl;
 
-    // Final line, to print totalPrice
-    cout << "If you want them all, that will be $" <<
-    totalPrice << endl;
+    // Greet the customer
+    cout << "welcom to our " << product << " Store!" << endl;
+    cout << "Whats your first name? ";
+    cin >> first_name;
+    cout << "Whats your last name? ";
+    cin >> last_name;
+    full_name = first_name + " " + last_name;
+    cout << "Nice to meet you, " << full_name << endl;
+
+   
 
 }
