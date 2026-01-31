@@ -12,9 +12,10 @@ int main() {
 
     // Set up all Variables
     string first_name, last_name, full_name; // holds customers name
-    string product = "apples"; 
+    string product = "apples "; 
+    int amount_purchased;
     double cost_each = 0.89;
-    double total_cost;
+    double total_cost; 
 
 
     // Greet the customer
@@ -26,6 +27,20 @@ int main() {
     full_name = first_name + " " + last_name;
     cout << "Nice to meet you, " << full_name << endl;
 
+    // Ask how much they'd like to purchase 
+    cout << "How many " << product << "would you like today? ";
+    cin >> amount_purchased;
+
+    total_cost = amount_purchased * cost_each;
+
+    // Calculate total price
+    cout << "For " << amount_purchased << " " << product << endl;
+    cout << "That will be: $" << total_cost << endl;
+    cout << "Thank you for shopping with us!" << endl;
+
+
+
+    return 0; // no errors 
    
 
 }
