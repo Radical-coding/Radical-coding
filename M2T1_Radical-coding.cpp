@@ -1,5 +1,5 @@
 // CSC 134
-// M1LAB - Apple Sales
+// M2T1 - Apple Sales 2.0
 // Radical-coding
 // 01/31/26
 // We're going to make the simplest possible
