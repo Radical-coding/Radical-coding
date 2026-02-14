@@ -32,7 +32,14 @@ int main() {
 
     // Print the receipt
     cout << fixed << setprecision(2);
-    cout << total << endl;
+    cout << "Thank you for shopping with us" << endl;
+    cout << "------------------------------" << endl;
+    cout << item << "\t$" << item_price    << endl;
+    cout << "Tax" << "\t\t$" << tax_amount   << endl;
+    cout << "------------------------------" << endl;
+    cout << "Total" << "\t\t$" << total << endl;
+    cout << endl;
+    
 
     return 0; // no errors
 }
