@@ -1,7 +1,7 @@
 /*
 CSC 134
 M3HW1 - Gold
-Radical-Coding
+Radical- Coding
 03/22/26
 */
 
