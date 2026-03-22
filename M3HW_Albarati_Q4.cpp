@@ -1,8 +1,8 @@
 /*
 CSC 134
 M3HW1 - Gold
-[Your Name]
-[Date]
+Radical-coding
+03/22/26
 */
 
 #include <iostream>
