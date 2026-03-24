@@ -6,25 +6,25 @@ Radical-coding
 */
 
 #include <iostream>
-#include <iomanip> // For formatting the table if needed
+#include <iomanip> // 
 
 using namespace std;
 
 int main() {
 
-    // --- Part 1: Simple While Loop (Gaddis Program 5-3) ---
+    // --- Part 1: Simple While Loop (Gaddis Program 5-3)
     // This loop will say "Hello" 5 times.
     cout << "Part 1: Greeting Loop" << endl;
     
     int count = 1;         // Start our counter at 1
     while (count <= 5) {   // Loop runs as long as count is 5 or less
         cout << "Hello number " << count << endl;
-        count++;           // IMPORTANT: Add 1 to count so the loop eventually ends!
+        count++;           
     }
     
-    cout << endl; // Print a blank line between parts
+    cout << endl; 
 
-    // --- Part 2: Table of Squares (Gaddis Program 5-6) ---
+    // --- Part 2: Table of Squares (Gaddis Program 5-6) 
     // This uses a while loop to print a formatted table.
     cout << "Part 2: Table of Squares" << endl;
     
