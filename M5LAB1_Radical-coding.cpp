@@ -1,8 +1,8 @@
 /*
 CSC 134
 M5LAB1 - Choose Your Own Adventure
-[Your Name]
-[Date]
+Radical-coding
+04/15/26
 */
 
 #include <iostream>
